@@ -1,0 +1,6 @@
+projectKey=com.vijay.cal:VijayCalculator
+serverUrl=http://localhost:9000
+serverVersion=6.7.3.38370
+dashboardUrl=http://localhost:9000/dashboard/index/com.vijay.cal:VijayCalculator
+ceTaskId=AWOH3Jvi6_nm-Adq9e2Q
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWOH3Jvi6_nm-Adq9e2Q

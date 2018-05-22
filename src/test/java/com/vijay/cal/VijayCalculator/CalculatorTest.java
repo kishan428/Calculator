@@ -1,4 +1,4 @@
-ckage com.ravi.cal.RaviCalculator;
+package com.vijay.cal.VijayCalculator;
 
 import org.junit.Test;
 import static org.hamcrest.CoreMatchers.is;
